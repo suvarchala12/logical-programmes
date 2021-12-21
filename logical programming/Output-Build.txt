@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: perfectNumber, Configuration: Debug ------
+1>C:\Users\user\Desktop\vs\logical programming\PerfectNumber\Program.cs(27,39,27,39): error CS1002: ; expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

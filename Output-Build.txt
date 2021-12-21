@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: PerfectNumber, Configuration: Debug Any CPU ------
+1>C:\Users\user\Desktop\vs\logical programming\PerfectNumber\Program.cs(9,32,9,50): warning CS8604: Possible null reference argument for parameter 's' in 'int int.Parse(string s)'.
+1>PerfectNumber -> C:\Users\user\Desktop\vs\logical programming\PerfectNumber\bin\Debug\net6.0\PerfectNumber.dll
+1>Done building project "PerfectNumber.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

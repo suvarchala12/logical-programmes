@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\vs\logical programming\CouponNumbers\obj\Debug\net6.0\CouponNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\vs\logical programming\CouponNumbers\obj\Debug\net6.0\CouponNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\vs\logical programming\CouponNumbers\obj\Debug\net6.0\CouponNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\vs\logical programming\CouponNumbers\obj\Debug\net6.0\CouponNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\vs\logical programming\CouponNumbers\obj\Debug\net6.0\CouponNumbers.csproj.CoreCompileInputs.cache

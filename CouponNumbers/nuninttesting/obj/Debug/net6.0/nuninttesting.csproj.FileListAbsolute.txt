@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\vs\logical programming\nuninttesting\obj\Debug\net6.0\nuninttesting.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\vs\logical programming\nuninttesting\obj\Debug\net6.0\nuninttesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\vs\logical programming\nuninttesting\obj\Debug\net6.0\nuninttesting.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\vs\logical programming\nuninttesting\obj\Debug\net6.0\nuninttesting.AssemblyInfo.cs
+C:\Users\user\Desktop\vs\logical programming\nuninttesting\obj\Debug\net6.0\nuninttesting.csproj.CoreCompileInputs.cache
